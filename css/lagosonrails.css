@@ -179,14 +179,14 @@ header {
     background-origin: padding-box;
     background-clip: border-box;
     transition:all .5s ease;
-    height: 100vh;
+    height: 105vh;
 }
 
 .overlay{
     background-color:rgba(0,0,0,0.6);
     position:absolute;
     width:100%;
-    height: 100vh;
+    height: 105vh;
 }
 
 @media(max-width:768px) {
